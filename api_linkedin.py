@@ -1,8 +1,8 @@
 import requests
 
 # Defina sua chave de API e token de acesso (substitua pelos seus valores reais)
-API_KEY = "77qjbgxaez501o"
-ACCESS_TOKEN = "fnj0ORv5nEoVuATs"
+API_KEY = "YOUR_TOKEN"
+ACCESS_TOKEN = "YOU_ACESS_TOKEN"
 
 # Defina os critérios de pesquisa
 QUERY = "programador"
