@@ -16,4 +16,4 @@ class MyClient(discord.Client):
             await message.channel.send(f'{message.author.name} as regras do servidor são:{os.linesep}1-Não falar palavrão{os.linesep}2- Regra importante')
 
 client = MyClient(intents=intents)
-client.run('MTE2MDMzNzI2Njk4ODgxMDMxMQ.GweHbL.fobPwMwNLDwNn9Ht3Ol877JGWGSp4vvSejCPEU')
+client.run('YOUR_CLIENTE_ID')
